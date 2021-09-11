@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ... -->
 
 
-## Honors
+## :trophy: Honors
 
 <!-- BLOG-POST-LIST:START -->
 - [Google Android Developers Challenge Winner](https://developer.android.com/helpful-innovation#agrifarm-section)
@@ -49,7 +49,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirwisek&theme=graywhite" alt="mirwise-stats" /></p>
 
-## Links
+## :link: Links
 
 <p align="center">
   <a href="https://mirwise.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
