@@ -57,6 +57,6 @@
   <a href="https://twitter.com/mirwisek"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/mirwise"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://medium.com/@mirwise001"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="https://stackoverflow.com/users/4027349/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+  <a href="https://stackoverflow.com/users/3740885/mirwise-khan"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
   <a href="https://hub.docker.com/u/mirwisek"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a>
 </p>
