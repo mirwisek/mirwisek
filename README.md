@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on canvas drawing with hand gestures
-- 🌱 I’m currently learning federated learning
+- 🔭 I’m currently working on timeseries representation learning
+- 🌱 I’m currently learning in depth about deep fakes
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
+![](https://komarev.com/ghpvc/?username=mirwisek&color=brightgreen)
 
 ## :trophy: Honors
 
