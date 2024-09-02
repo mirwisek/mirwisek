@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on timeseries representation learning
+- 🔭 I’m currently working on timeseries representation learning as images 🖼️
 - 🌱 I’m currently learning in depth about deep fakes
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
