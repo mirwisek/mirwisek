@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on timeseries representation learning as images 🖼️
-- 🌱 I’m currently learning in depth about deep fakes
+- 🔭 I’m currently working on Amazon Bedrock and workflow automation with Agentic AI.
+- 🌱 I’m currently learning in depth about TypeScript and LLM fine-tuning. 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
