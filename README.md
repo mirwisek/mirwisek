@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-![](https://komarev.com/ghpvc/?username=mirwisek&color=brightgreen)
+<!-- ![](https://komarev.com/ghpvc/?username=mirwisek&color=brightgreen) -->
 
 ## :trophy: Honors
 
